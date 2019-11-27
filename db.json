@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "clients":[
-    {"code": 123456789, "client":"emergia", "defaultMode":"Visualization", "video":"ReelHR"},
-    {"code": 987654321, "client": "mentor-vr", "defaultMode": "Exposition", "video":"ReelHR"}
+    {"code": "123456789", "client":"emergia", "defaultMode":"Visualization", "video":"ReelHR"},
+    {"code": "987654321", "client": "mentor-vr", "defaultMode": "Exposition", "video":"ReelHR"}
     ]
 }
