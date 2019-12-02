@@ -13,6 +13,7 @@
   },
   "clients":[
     {"code": "123456789", "client":"EMERGIA", "defaultMode":"Visualization", "video":"ReelHR"},
-    {"code": "987654321", "client": "MENTORVR", "defaultMode": "Exposition", "video":"ReelHR"}
+    {"code": "25A", "client": "mentor-vr", "defaultMode": "Menu", "video":"Demo"},
+    {"code": "987654321", "client": "MENTORVR", "defaultMode": "Exposition", "video":"Demo"}
     ]
 }
