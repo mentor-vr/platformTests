@@ -10,6 +10,6 @@
     {"code": "123456789", "client":"EMERGIA", "defaultMode":"GroupOnboarding", "video":"ReelHR"},
     {"code": "25A", "client": "mentor-vr", "defaultMode": "Menu", "video":"Demo"},
     {"code": "987654321", "client": "MENTORVR", "defaultMode": "Exposition", "video":"Demo"},
-    {"code": "EMERGIA", "client": "emergia", "defaultMode": "GroupOnboarding", "video": "ReelHR"}
+    {"code": "EMERGIA", "client": "emergia", "defaultMode": "Visualization", "video": "ReelHR"}
     ]
 }
