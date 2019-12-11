@@ -1,8 +1,4 @@
 {
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "videos": [
     {"name": "ReelHR", "videoURL":"null"}
   ],
@@ -10,7 +6,9 @@
     {"code": "123456789", "client":"EMERGIA", "defaultMode":"GroupOnboarding", "video":"ReelHR"},
     {"code": "25A", "client": "mentor-vr", "defaultMode": "Menu", "video":"Demo"},
     {"code": "987654321", "client": "MENTORVR", "defaultMode": "Exposition", "video":"Demo"},
-    {"code": "EMERGIA", "client": "emergia", "defaultMode": "Visualization", "video": "ReelHR"},
-    {"code": "12345", "client": "emergia", "defaultMode": "GroupOnboarding", "video": "ReelHR"}
+    {"code": "MENU", "client": "emergia", "defaultMode": "Menu", "video": "ReelHR"},
+    {"code": "ONBOARDING", "client": "emergia", "defaultMode": "Onboarding", "video": "ReelHR"},
+    {"code": "EXPOSITION", "client": "emergia", "defaultMode": "Exposition", "video": "ReelHR"},
+    {"code": "VISUALIZATION", "client": "emergia", "defaultMode": "Visualization", "video": "ReelHR"},
     ]
 }
