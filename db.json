@@ -9,6 +9,6 @@
     {"code": "MENU", "client": "emergia", "defaultMode": "Menu", "video": "ReelHR"},
     {"code": "ONBOARDING", "client": "emergia", "defaultMode": "Onboarding", "video": "ReelHR"},
     {"code": "EXPOSITION", "client": "emergia", "defaultMode": "Exposition", "video": "ReelHR"},
-    {"code": "VISUALIZATION", "client": "emergia", "defaultMode": "Visualization", "video": "ReelHR"},
+    {"code": "VISUALIZATION", "client": "emergia", "defaultMode": "Visualization", "video": "ReelHR"}
     ]
 }
